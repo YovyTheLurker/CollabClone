@@ -59,4 +59,11 @@ public class Person{
         this.ssn = arg;
     };
 
+    public String toString(){
+        return "Person name: " + this.name + "\n" +
+        "Person is alive: " + this.alive + "\n" +
+        "Person age: " + this.age + "\n" +
+        "Person ssn: " + this.ssn;
+    }
+
 }
