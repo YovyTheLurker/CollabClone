@@ -1,8 +1,8 @@
 public class Person{
-    public String name;
-    public boolean alive;
-    public int age;
-    public String ssn;
+    private String name;
+    private boolean alive;
+    private int age;
+    private String ssn;
 
     public Person(){
         this.name = "";
