@@ -37,7 +37,7 @@ public class Teacher extends Person{
     }
     //toString
     public String toString(){
-        String output = "";
+        String output = super.toString();
         output += "Teacher Info:\n\n" + "Teacher ID: " + getID() +
         "\nMonthly Salary: " + getSal() + 
         "\nYears worked: " + getYrWorked();
