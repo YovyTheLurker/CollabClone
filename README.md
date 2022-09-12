@@ -10,6 +10,6 @@
 
 # Collaborative1
 Team #
-Team Mambers
+Team Members
 
 How are we collaborating... etc.
